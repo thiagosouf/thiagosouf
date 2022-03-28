@@ -2,6 +2,10 @@
 Hi 👋, I'm Thiago
 </h1>
 
+<p align="left">
+<a href="https://wakatime.com/@3e6015bd-9eab-4230-8d34-8ce12e381ced"><img src="https://wakatime.com/badge/user/3e6015bd-9eab-4230-8d34-8ce12e381ced.svg" alt="Total time coded since Jan 17 2022" /></a>
+</p>
+
 <!--
 **thiagosouf/thiagosouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
