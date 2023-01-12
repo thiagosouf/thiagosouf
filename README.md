@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="left" style="width:330px;display: inline; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagosouf&show_icons=true&locale=en&layout=compact" alt="thiagosouf" /> <img style="width:400px;display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=thiagosouf&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="thiagosouf" /></p>
